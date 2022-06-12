@@ -1,9 +1,5 @@
 <h3 align="center">Hi there! I'm Pavan </br> An Aspiring Full Stack Developer</h3>
 
-<!-- Blogs posts -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/pavan_sargar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pavan_sargar" height="30" width="40" /></a>
@@ -21,10 +17,21 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/pawansargar"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pawansargar" /></a></p><br><br>
 
+</hr>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pavansargar&show_icons=true&locale=en&layout=compact" alt="pavansargar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pavansargar&show_icons=true&locale=en" alt="pavansargar" /></p>
+</hr>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pavansargar&show_icons=true&locale=en" alt="pavansargar" /></p>
+
+</hr>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavansargar&" alt="pavansargar" /></p>
 
+</hr>
+
+# Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
