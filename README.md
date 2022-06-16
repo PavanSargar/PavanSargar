@@ -32,5 +32,8 @@
 </hr>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [How to Host your first React App for Free!](https://waystoweb.com/host-react-app-for-free/)
+- [How to Run Shell Script Files in Windows 10/11](https://waystoweb.com/run-shell-script-in-windows/)
+- [Why &amp; How to Start a Blog in 2022?](https://waystoweb.com/how-to-start-a-blog-in-2022/)
+- [Why do you need to use React Fragments?](https://waystoweb.com/why-to-use-react-fragments/)
 <!-- BLOG-POST-LIST:END -->
