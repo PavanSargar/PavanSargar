@@ -30,9 +30,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavansargar&" alt="pavansargar" /></p>
 
 </hr>
-
-# Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-- [[Action required] Your RSS.app Trial has Expired.](https://rss.app)
-<!-- BLOG-POST-LIST:END -->
