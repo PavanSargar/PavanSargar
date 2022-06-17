@@ -31,6 +31,8 @@
 
 </hr>
 
+<h3 align="left">My latest blog posts</h3>
+
 <!-- BLOG-POST-LIST:START -->
 - [How to Host your first React App for Free!](https://waystoweb.com/host-react-app-for-free/)
 - [How to Run Shell Script Files in Windows 10/11](https://waystoweb.com/run-shell-script-in-windows/)
