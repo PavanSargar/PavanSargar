@@ -11,4 +11,4 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "4"
-                feed_list: "http://fetchrss.com/rss/62ab396975420861c03f4b1362ab398fb5e5174c0b569e52.xml"
+                feed_list: "http://fetchrss.com/rss/6331f72280fa56395d575ba26331f709538bde0edb6264e2.xml"
