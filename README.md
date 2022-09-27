@@ -34,8 +34,8 @@
 <h3 align="left">My latest blog posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Frontegg: Best Auth System for your Frontend](https://codingmasterweb.com/index.php/2022/09/27/frontegg-best-auth-for-your-frontend/)
 - [NextJS vs ReactJS: Which is the best for your project?](https://codingmasterweb.com/index.php/2022/09/26/nextjs-vs-reactjs-which-is-the-best-for-your-project/)
 - [5 Amazing React libraries to make your App Stand Out!￼](https://codingmasterweb.com/index.php/2022/07/28/5-amazing-react-libraries/)
 - [How to use React Hook Form with Validation](https://codingmasterweb.com/index.php/2022/06/17/react-hook-form-with-validation/)
-- [How to Handle APIs in React?](https://codingmasterweb.com/index.php/2022/06/11/handle-apis-in-react/)
 <!-- BLOG-POST-LIST:END -->
