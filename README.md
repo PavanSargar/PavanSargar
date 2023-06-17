@@ -34,8 +34,8 @@
 <h3 align="left">My latest blog posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
-- [7 JavaScript Tips and Tricks you must Know!](https://codingmasterweb.com/index.php/2022/10/18/javascript-tips-and-tricks/)
-- [How to Manage State with Zustand in React](https://codingmasterweb.com/index.php/2022/10/13/manage-state-with-zustand/)
-- [Frontegg: Best Auth System for your Frontend](https://codingmasterweb.com/index.php/2022/09/27/frontegg-best-auth-for-your-frontend/)
-- [NextJS vs ReactJS: Which is the best for your project?](https://codingmasterweb.com/index.php/2022/09/26/nextjs-vs-reactjs-which-is-the-best-for-your-project/)
+- [7 JavaScript Tips and Tricks you must Know!](https://codingmasterweb.com/javascript-tips-and-tricks/)
+- [How to Manage State with Zustand in React](https://codingmasterweb.com/manage-state-with-zustand/)
+- [Frontegg: Best Auth System for your Frontend](https://codingmasterweb.com/frontegg-best-auth-for-your-frontend/)
+- [NextJS vs ReactJS: Which is the best for your project?](https://codingmasterweb.com/nextjs-vs-reactjs-which-is-the-best-for-your-project/)
 <!-- BLOG-POST-LIST:END -->
