@@ -34,8 +34,8 @@
 <h3 align="left">My latest blog posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Development: A Beginner’s Guide to Getting Started](https://codingmasterweb.com/web-development-a-beginners-guide-to-getting-started/)
 - [7 JavaScript Tips and Tricks you must Know!](https://codingmasterweb.com/javascript-tips-and-tricks/)
 - [How to Manage State with Zustand in React](https://codingmasterweb.com/manage-state-with-zustand/)
 - [Frontegg: Best Auth System for your Frontend](https://codingmasterweb.com/frontegg-best-auth-for-your-frontend/)
-- [NextJS vs ReactJS: Which is the best for your project?](https://codingmasterweb.com/nextjs-vs-reactjs-which-is-the-best-for-your-project/)
 <!-- BLOG-POST-LIST:END -->
