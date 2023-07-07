@@ -23,7 +23,7 @@
 
 </hr>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pavansargar&show_icons=true&locale=en" alt="pavansargar" /></p>
+<!--- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pavansargar&show_icons=true&locale=en" alt="pavansargar" /></p> -->
 
 </hr>
 
