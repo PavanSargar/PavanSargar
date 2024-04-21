@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Pavan! Full Stack Developer.<br><br>🔭 I’m currently working on [Profili](https://profili.me)<br>🌱 I’m currently learning PostgreSQL, Three.JS, Docker<br>👨‍💻 All of my projects are available at: [Portfolio](https://pavansargar.com)<br>📝 I sometimes write articles on: [Blog](https://waystoweb.com)<br>💬 Ask me about MERN Stack, Next.js, TypeScript<br>📫 How to reach me pavansargar36@gmail.com<br>📄 Know about my experiences: Resume
+Hi 👋, I'm Pavan! Full Stack Developer.<br><br>🔭 I’m currently working on [Profili](https://profili.me)<br>🌱 I’m currently learning PostgreSQL<br>👨‍💻 All of my projects are available at: [Portfolio](https://pavansargar.com)<br>📝 I sometimes write articles on: [Blog](https://waystoweb.com)<br>💬 Ask me about MERN Stack, Next.js, TypeScript<br>📫 How to reach me pavansargar36@gmail.com<br>📄 Know about my experiences: Resume
 
 
 ## 🌐 Socials:
